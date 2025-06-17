@@ -1,4 +1,0 @@
-DummyMockTest
-mocktests.DummyMockTest
-DummyMockTest$MyService
-mocktests.DummyMockTest$MyService
